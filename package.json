@@ -1,0 +1,14 @@
+{
+  "name": "my-nodejs-project",
+  "version": "1.0.0",
+  "main": "readParagraph.js",
+  "scripts": {
+  "start": "node readParagraph.js"
+},
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
